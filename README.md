@@ -59,7 +59,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ajayvaniya0/ajayvaniya0/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ajavaniya0&&style=flat-square" align="center" />
+</div>  
 
 ###
 
