@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working personal project<br>🌱 I’m currently learning Typescript<br>💬 Ask me DSA <br>⚡ Believe in Instinct 
+🌱 I’m currently learning Typescript<br>💬 Ask me DSA <br>⚡ Believe in Instinct 
 
 
 ## 🌐 Socials:
